@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about education, technology, and em
 - Open-source initiatives related to software development and education.
 
 ## 📫 How to reach me
-- You can connect with me through [LinkedIn](your-linkedin-profile) or email me at [your-email@example.com](mailto:your-email@example.com).
+- You can connect with me through [LinkedIn](https://www.linkedin.com/in/khalid-abdillahi-269871276/) or email me at [megakhalid32@gmail.com](mailto:megakhalid32@gmail.com).
 
 ## 😄 Pronouns
 - He/Him
