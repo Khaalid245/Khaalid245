@@ -2,7 +2,8 @@
 I’m a software engineering student with a growing skill set in frontend, backend, mobile app development, and DevOps. My work focuses on building digital solutions that enhance learning, improve accessibility, and support community development.<br>Tech: React, Tailwind CSS, Node.js, Django REST Framework, Flutter, Docker, GitHub Actions.
 
 ## 🌐 Portifolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://my-portfolio-2025-three.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-👤-black?style=flat)](https://my-portfolio-2025-three.vercel.app/)
+
  
 
 ## 🌐 Socials:
