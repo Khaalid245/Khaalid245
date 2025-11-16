@@ -1,10 +1,9 @@
 # 💫 About Me:
-I’m a software engineering student with a growing skill set in frontend, backend, mobile app development, and DevOps. My work focuses on building digital solutions that enhance learning, improve accessibility, and support community development.<br>Tech: React, Tailwind CSS, Node.js, Django REST Framework, Flutter, Docker, GitHub Actions.
+I’m Khalid Abdillahi, a software engineering student with a growing skill set in frontend, backend, mobile app development, and DevOps. My work focuses on building digital solutions that enhance learning, improve accessibility, and support community development.<br>Tech: React, Tailwind CSS, Node.js, Django REST Framework, Flutter, Docker, GitHub Actions.
 
-## 🌐 Portifolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-👤-black?style=flat)](https://my-portfolio-2025-three.vercel.app/)
+### Portfolio  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge)](https://my-portfolio-2025-three.vercel.app/)
 
- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khalid-abdillahi-269871276/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalidabdillahi30@gmail.com) 
